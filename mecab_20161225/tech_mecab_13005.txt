@@ -1,0 +1,1 @@
+[請益] plc步進馬達撰寫 - 看板 Tech_Job - 批踢踢實業坊作者mamnal (H)看板Tech_Job標題[請益] plc步進馬達撰寫時間Tue May  6 15:10:59 2014不好意思，小弟有關於plc步進馬達的控制有點疑惑由於沒有學過，自己摸階梯圖無法轉換，程式錯誤想請教專長plc的好心人幫忙我酬勞可以談，謝謝--※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 1.165.17.2※ 文章網址: http://www.ptt.cc/bbs/Tech_Job/M.1399360262.A.35A.html→ jasonchiu:左轉 codejob版 ?→ onionys:可以去mechanical版或electronics版問問推文自動更新已關閉

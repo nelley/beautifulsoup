@@ -1,0 +1,1 @@
+[請益] Dongle 線材測試 - 看板 Tech_Job - 批踢踢實業坊作者royhutw (Roy Hu)看板Tech_Job標題[請益] Dongle 線材測試時間Wed Jun 12 22:13:43 2013各位先進大家好小弟公司計畫跨入吊卡包裝之Dongle&amp;線材銷售的領域目前計畫是要以Mini Displayport to D-SUB &amp; USB Ethernet Adapter兩種產品為主目標市場是歐美等大型連鎖商店如Radioshack or Circuit City之類的商店想請問:1.這類產品是否需要符合那些歐美法規規定(如FCC的EMI)2.需要做哪些驗證報告(電器或性能)還請各位先進不吝協助謝謝!--※ 發信站: 批踢踢實業坊(ptt.cc)◆ From: 220.134.193.161推文自動更新已關閉

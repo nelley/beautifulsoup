@@ -1,0 +1,1 @@
+[請益] 關於physical verification - 看板 Tech_Job - 批踢踢實業坊作者bica (掰咖)看板Tech_Job標題[請益] 關於physical verification時間Mon Jul 16 20:33:30 2012想請教一下  最近在104看到一份工作職稱是physical verification engineer關於此工作之主要內容大致為何？有沒有簡單一點的解釋？很抱歉可能問了可笑的問題=   =--※ 發信站: 批踢踢實業坊(ptt.cc)◆ From: 58.115.38.196※ 編輯: bica            來自: 58.115.38.196        (07/16 20:34)推 onlykals:裡面都會有寫吧? 我猜是drc/lvs 這類的推文自動更新已關閉

@@ -1,0 +1,1 @@
+[請益] layout -- wafer notch - 看板 Tech_Job - 批踢踢實業坊作者a881 (不想再談戀愛了(Man))看板Tech_Job標題[請益] layout -- wafer notch時間Fri Oct 26 14:26:01 2012請問各位前輩The Flash IP’s layout must be placed with the x-axis vertical to the wafernotch是指IP在layout時擺放不可rotate嗎?thanks--※ 發信站: 批踢踢實業坊(ptt.cc)◆ From: 219.87.157.211推 saysayliam:yes推文自動更新已關閉

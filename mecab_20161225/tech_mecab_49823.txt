@@ -1,0 +1,1 @@
+[心得] M似乎想進入中階network soc/chip市場 - 看板 Tech_Job - 批踢踢實業坊作者egnaro123 (原po是大叔)看板Tech_Job標題[心得] M似乎想進入中階network soc/chip市場時間Wed Aug 22 09:37:39 2012104看到在徵求職位網路晶片架構設計Network Software Architector網路晶片設計驗證技術副理-----------意指向b的netlogxx / 獨立的qlogxx,不過這種是高技術門檻,5年後再看看結果吧--※ 發信站: 批踢踢實業坊(ptt.cc)◆ From: 112.104.43.66→ egnaro123:也有可能是做低階nas chip, 後來想想這比較有可能些→ jdward:應該是原來 Ralink 的部分吧?推文自動更新已關閉

@@ -1,0 +1,1 @@
+[徵才] 工研院Wi-Fi MAC Code工讀生 - 看板 Tech_Job - 批踢踢實業坊作者springcome (笨鳥慢飛)看板Tech_Job標題[徵才] 工研院Wi-Fi MAC Code工讀生時間Thu Oct  4 17:01:56 2012工作內容: WIFI lower MAC analysis (C code)需求條件:1.    資訊或通訊相關科系2.    熟悉C語言與linux作業系統3.    了解無線網路protocol為佳工作時間: 1~2 days/week酬勞計算:l   碩士: 1250~1500/dayl   博士: 1600~2000/day聯絡人: apple.chen@itri.org.tw--※ 發信站: 批踢踢實業坊(ptt.cc)◆ From: 140.113.179.2推文自動更新已關閉
